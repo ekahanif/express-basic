@@ -1,0 +1,15 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "Learning How to Use Node on Express",
+  "main": "y",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
